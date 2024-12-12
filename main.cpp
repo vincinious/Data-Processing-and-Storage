@@ -5,7 +5,7 @@ using namespace std;
 
 int main() 
 {
-    InMemoryDB db;
+    inMemoryDB db;
 
     try 
     {
