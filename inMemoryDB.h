@@ -5,7 +5,7 @@
 
 using namespace std;
 
-class InMemoryDB 
+class inMemoryDB 
 {
 private:
     unordered_map<string, int> database;
